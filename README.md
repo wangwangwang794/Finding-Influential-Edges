@@ -1,6 +1,6 @@
 # Finding-Influential-Edges
 Any complex network can broken down into multiple disconnected components, by removing a small fraction of the edges (or nodes) of the
-network. Finding these edges, or nodes, is an important problem in many domains. However, the problems falls into the NP class,
+network. Finding these edges, or nodes, is an important problem in many domains. However, the problem falls into the NP class,
 and therefore finding an approximate solution to this problem is essential. Many approaches have been suggested for the case of identifying important nodes in a network. This repository contains the implementation of various approaches I have tried to find the approximate solutions to the problem of finding the most influential edges in a network. 
 
 Following is the description of the codes-
